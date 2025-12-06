@@ -23,5 +23,5 @@ a:hover {
 
 /* 追加。最後の行間を空ける */
 p:last-of-type {
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
