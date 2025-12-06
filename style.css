@@ -20,3 +20,8 @@ a {
 a:hover {
   border-bottom-color: #333;
 }
+
+/* 追加。最後の行間を空ける */
+p:last-of-type {
+  margin-top: 2rem;
+}
